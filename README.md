@@ -25,7 +25,7 @@
 via `HTTPS` 
 ```
 https://github.com/Aidoru486/mws-restaurant-stage-master.git```
-
+```
 Or via `SSH` 
 ```
 git@github.com:Aidoru486/mws-restaurant-stage-master.git
